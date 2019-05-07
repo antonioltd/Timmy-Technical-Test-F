@@ -25,3 +25,6 @@ Testing Tools:
           nunit3-console.exe [Test.dll Path] --out[File path to where the test result is saved]
           
           e.g. nunit3-console.exe "~Test\bin\Debug\Test.dll" --out=c:/TestOutput.xml]
+
+   Please refer to test result for failed tests.
+  
