@@ -10,7 +10,7 @@ Testing Tools:
   
  Pre-request:
    - compile/build is required. 
-         e.g. run the command "dotnet build ~/<Solution path>/TechnicalTest.sln"  in the command line
+         e.g. run the command "dotnet build ~[Solution folder]/TechnicalTest.sln"  in the command line
  
  Framework objective:
          This framework is designed for BDD approach. User with minimal coding skills can write a test scenario with this framework.
