@@ -1,6 +1,6 @@
-# Timmy-Technical-Test-FairFx
+# Timmy-Technical-Test-F
 
-# This is a FairFX Technical Test 
+# This is a F Technical Test 
 
 Testing Tools:
    - Visual Studio 2017
