@@ -1,6 +1,5 @@
 # Timmy-Technical-Test-F
-
-# This is a F Technical Test 
+ 
 
 Testing Tools:
    - Visual Studio 2017
